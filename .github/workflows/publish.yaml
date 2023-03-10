@@ -24,5 +24,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./result/
-          enable_jekyll: true
+          # enable_jekyll: true
           # cname: yoursite.com
